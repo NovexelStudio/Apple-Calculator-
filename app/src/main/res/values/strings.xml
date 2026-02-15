@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">Calculator</string>
+
+    <string name="btn_ac">AC</string>
+    <string name="btn_plus_minus">+/-</string>
+    <string name="btn_percent">%</string>
+    <string name="btn_divide">÷</string>
+    <string name="btn_multiply">×</string>
+    <string name="btn_subtract">−</string>
+    <string name="btn_add">+</string>
+    <string name="btn_equal">=</string>
+    <string name="btn_dot">.</string>
+    <string name="btn_delete">⌫</string>
+
+    <string name="digit_0">0</string>
+    <string name="digit_1">1</string>
+    <string name="digit_2">2</string>
+    <string name="digit_3">3</string>
+    <string name="digit_4">4</string>
+    <string name="digit_5">5</string>
+    <string name="digit_6">6</string>
+    <string name="digit_7">7</string>
+    <string name="digit_8">8</string>
+    <string name="digit_9">9</string>
+
+    <string name="default_zero">0</string>
+
+    <string name="percentage_calculator_title">Percentage Calculator</string>
+    <string name="hint_enter_number">ENTER NUMBER</string>
+    <string name="hint_percentage">PERCENTAGE (%)</string>
+    <string name="result_label">Result</string>
+    <string name="btn_calculate">Calculate</string>
+
+    <string name="desc_switch_to_percentage">Switch to percentage calculator</string>
+    <string name="desc_switch_to_calculator">Switch to standard calculator</string>
+</resources>

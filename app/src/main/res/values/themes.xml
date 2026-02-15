@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!-- themes.xml (light base) -->
+    <style name="Theme.NewApp" parent="Theme.Material3.Light.NoActionBar">
+        <item name="android:statusBarColor">@color/app_background</item>
+        <item name="android:windowBackground">@color/app_background</item>
+
+    </style>
+</resources>

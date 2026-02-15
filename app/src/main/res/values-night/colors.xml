@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="app_background">#000000</color>
+    <color name="keypad_container">#000000</color>
+    <color name="btn_function">#A5A5A5</color>
+    <color name="btn_number">#333333</color>
+    <color name="btn_operator">#FF9F0A</color>
+    <color name="text_numbers">#FFFFFF</color>
+    <color name="text_functions">#000000</color>
+    <color name="display_text">#FFFFFF</color>
+
+    <color name="text_field">#2D2D2D</color>
+
+
+    <color name="buttons">#4A4A4A</color>
+    <color name="icons">#FFFFFF</color>
+</resources>
